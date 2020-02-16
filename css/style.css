@@ -1,0 +1,25 @@
+/* Importing Google fonts */
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700|B612:400,700&display=swap');
+
+/*Importing Components*/
+@import url('components/container.css');
+@import url('components/btn-blue.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+/*General text*/
+
+body {
+	font-family: 'B612', sans-serif;
+	font-size: 20px;
+}
+
+h1, h2 , h3 {
+	font-family: 'Arvo', serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
